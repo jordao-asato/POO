@@ -1,0 +1,9 @@
+Implemente o seguinte exercício:
+
+Crie um programa que imprima na tela vários triângulos de “*”. O número de níveis do triângulo e a quantidade de triângulos deverão ser lidos do teclado. Veja um exemplo abaixo com dois triângulos de três níveis cada:
+*
+**
+***
+*
+**
+***
